@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../Javawro23-programowanie2/src/main/resources/view/tttBoard.fxml" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/pl/arek/tgame/views/SuperText.java" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/META-INF/MANIFEST.MF" charset="windows-1250" />
+    <file url="file://$PROJECT_DIR$/src/main/resources/view/paint.fxml" charset="windows-1250" />
+  </component>
+</project>
